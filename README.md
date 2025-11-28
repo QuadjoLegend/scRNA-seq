@@ -24,3 +24,9 @@ Data source: "https://datasets.cellxgene.cziscience.com/c26ae673-1220-40e9-960f-
 1. Elucidate the cellular and molecular mechanisms underlying immune dysregulation in COVID-19.
 2. Identify potential biomarkers for COVID-19 diagnosis, prognosis, and therapeutic targeting.
 3. Inform the development of novel therapeutic strategies for COVID-19.
+
+
+## Key Findings
+<img width="2625" height="722" alt="image" src="https://github.com/user-attachments/assets/66e1f5c9-95f4-4fbb-8271-0dcd00bccc1c" />
+<img width="2625" height="722" alt="image" src="https://github.com/user-attachments/assets/92b84e3d-a7ff-42e1-b291-dccb103098d5" />
+
