@@ -19,13 +19,6 @@ Data source: "https://datasets.cellxgene.cziscience.com/c26ae673-1220-40e9-960f-
 3. What are the key signaling pathways and transcriptional regulators involved in COVID-19 immune dysregulation?
 4. Can scRNA-seq identify potential biomarkers for COVID-19 diagnosis, prognosis, and therapeutic targeting?
 
-#### Experimental design:
-
-1. Collect PBMCs from COVID-19 patients (n=10-20) and healthy controls (n=10-20).
-2. Perform scRNA-seq using a platform such as 10x Genomics or Drop-seq.
-3. Analyze data using bioinformatics pipelines, including cell type identification, differential gene expression, and trajectory analysis.
-4. Validate findings using orthogonal methods, such as flow cytometry and qRT-PCR.
-
 #### Potential impact:
 
 1. Elucidate the cellular and molecular mechanisms underlying immune dysregulation in COVID-19.
